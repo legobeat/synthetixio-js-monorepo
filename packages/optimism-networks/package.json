@@ -32,7 +32,7 @@
   "dependencies": {
     "@ethersproject/bignumber": "^5.7.0",
     "@ethersproject/bytes": "^5.7.0",
-    "@metamask/providers": "^10.2.1"
+    "@metamask/providers": "^12.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
